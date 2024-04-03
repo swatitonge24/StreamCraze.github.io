@@ -9,3 +9,9 @@ StreamCraze Aap Demo
 
 
 
+Tech Used for This Project-
+-React js
+-Redux Toolkit
+-Tailwind CSS
+- API
+-
